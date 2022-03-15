@@ -1,6 +1,6 @@
-host="fabmedical-[SUFFIX].documents.azure.com"
-username="fabmedical-[SUFFIX]"
-password="[PASSWORD]"
+host="fabmedical-562479.documents.azure.com"
+username="fabmedical-562479"
+password="bQBxgK0756CBG6QWwb2Wy7XBgIN0hCATSBvhZrs6uIVq5TOVaTWlOBZNrgbACEHotBY3OcGVXSXQTbLqBGy7Lg=="
 dbname="contentdb"
 port="10255"
 
